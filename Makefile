@@ -1,2 +1,2 @@
 buildthis:
-	g++ main.c -o main
+	g++ main.cpp -o main
